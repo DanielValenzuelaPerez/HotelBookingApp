@@ -1,0 +1,26 @@
+Type,Max Guests,Rate,Hotel
+Single,1,300.00,The Beverly Hills Hotel
+Double,2,450.00,The Beverly Hills Hotel
+King Suite,4,900.00,The Beverly Hills Hotel
+Family Suite,6,1200.00,The Beverly Hills Hotel
+Penthouse,6,2500.00,The Beverly Hills Hotel
+Single,1,350.00,The Four Seasons Hotel
+Double,2,500.00,The Four Seasons Hotel
+Junior Suite,3,750.00,The Four Seasons Hotel
+Executive Suite,4,1200.00,The Four Seasons Hotel
+Presidential Suite,6,3000.00,The Four Seasons Hotel
+Classic Room,2,400.00,The Plaza Hotel
+Deluxe Room,3,600.00,The Plaza Hotel
+Plaza Suite,4,950.00,The Plaza Hotel
+Royal Suite,6,1800.00,The Plaza Hotel
+Penthouse Suite,6,3500.00,The Plaza Hotel
+Single,1,400.00,The Ritz-Carlton
+Deluxe Double,2,550.00,The Ritz-Carlton
+Club Room,3,800.00,The Ritz-Carlton
+Executive Suite,4,1500.00,The Ritz-Carlton
+Ritz-Carlton Suite,6,4000.00,The Ritz-Carlton
+Luxury King,2,500.00,The Venetian Resort
+Grand Suite,4,1100.00,The Venetian Resort
+Venetian Suite,5,1600.00,The Venetian Resort
+Palazzo Suite,6,2100.00,The Venetian Resort
+Penthouse,6,5000.00,The Venetian Resort
